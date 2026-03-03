@@ -20,7 +20,7 @@ export default function Hero() {
             />
           </div>
         </div>
-        <h1 className="text-5xl font-bold mb-4">Hi, I'm Glaxin</h1>
+        <h1 className="text-5xl font-bold mb-4">Hi, I'm Hashim</h1>
         <p className="text-lg text-gray-600 dark:text-gray-400 max-w-lg mx-auto">
           A passionate developer creating elegant solutions to complex problems.
           Welcome to my digital space where creativity meets functionality and
