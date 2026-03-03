@@ -18,7 +18,7 @@ const experiences: Experience[] = [
     company: "Fiverr Freelancer",
     logo: "/images/fiverr.png",
     position: "Full Stack Developer",
-    year: "April 2024 - Present",
+    year: "April 2024 - November 2025",
     description:
       "As a freelance Full Stack Developer on Fiverr, I build dynamic, responsive, and high-performing web applications tailored to client needs. I handle both front-end and back-end development, integrating modern technologies to deliver seamless user experiences and scalable digital solutions.",
   },
